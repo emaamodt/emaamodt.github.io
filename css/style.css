@@ -1,0 +1,69 @@
+h1 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+}
+.intro {
+  width:100%;
+  height:300px;
+  background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/280h/1WSXSUL50C.jpg");
+  background: url("https://snap-photos.s3.amazonaws.com/img-thumbs/280h/1WSXSUL50C.jpg") no-repeat top center scroll;
+  background-size:100% auto;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: #FAFAFA;
+  margin-top: 50px;
+}
+
+.thumbnail {
+  min-height: 350px;
+  height: 350px;
+  margin-bottom: 50px;
+}
+
+#projects {
+  margin-top: 100px;
+  text-align: center;
+}
+#about {
+  margin-top: 100px;
+}
+.section-header {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #464646;
+}
+.panel-title {
+  font-weight: bold;
+}
+.jumbotron {
+}
+a .fa {
+color: white;
+}
+
+#projectimage {
+  width: 192px;
+  height: 200px;
+  display: block;
+  margin-top: 10px;
+} 
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.form__container {
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 16px;
+  padding: 32px;
+  box-shadow: $bs;
+  border-radius: 4px;
+}
