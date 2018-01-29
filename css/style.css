@@ -20,6 +20,8 @@ body {
   margin-top: 50px;
 }
 
+
+
 .thumbnail {
   min-height: 350px;
   height: 350px;
@@ -27,7 +29,7 @@ body {
 }
 
 #projects {
-  margin-top: 100px;
+  padding: 50px;
   text-align: center;
   margin-left: 20px;
   margin-right: 20px;
