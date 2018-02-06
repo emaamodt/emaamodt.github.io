@@ -21,8 +21,6 @@ body {
   margin-top: 50px;
 }
 
-
-
 .thumbnail {
   min-height: 350px;
   height: 350px;
@@ -55,11 +53,20 @@ a .fa {
 color: white;
 }
 
-#projectimage {
+#projectimage-wide {
+  width: 200px;
+  height: 205px;
+  display: block;
+  margin-top: 10px;
+  border-radius: 4px;
+} 
+
+#projectimage-long {
   width: 220px;
   height: 200px;
   display: block;
   margin-top: 10px;
+  border-radius: 4px;
 } 
 
 ul {
